@@ -9,7 +9,7 @@ The analysis is performed on a dataset collected during Black Friday sales, enco
 **Gender:** Understanding the purchasing behavior differences between male and female customers..<br> 
 **Age: **Analyzing buying patterns across different age groups..<br> 
 **Marital Status:** Exploring the impact of marital status on purchase decisions..<br> 
-****Occupation: ****Examining how different occupations influence buying preferences..<br> 
+**Occupation:**Examining how different occupations influence buying preferences..<br> 
 Files.<br> 
 **data/:** Black friday sales data.csv.<br> 
 **Black Friday.ipynb:** Jupyter Notebook file containing the Python code for the analysis..<br> 
