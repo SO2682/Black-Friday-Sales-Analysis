@@ -1,4 +1,4 @@
-# Back-Friday-Sales-Analysis
+# Black-Friday-Sales-Analysis
 
 Black Friday Sales Analysis: This repository contains an analysis of Black Friday sales data categorized based on Gender, Age, Marital status, and occupation.The analysis provides insights and trends observed during Black Friday sales, aiding in understanding consumer behavior across different demographics..<br> 
 
